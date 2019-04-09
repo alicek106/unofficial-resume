@@ -8,7 +8,7 @@
 
 <div contenteditable="plaintext-only"><p align="center"><img width="400" src="https://github.com/alicek106/unofficial-resume/blob/master/jpg/7.jpg?raw=true"></p></div>
 
-----
+
 
 ## 좋아하는 어구
 
@@ -18,7 +18,7 @@
 
 혼자서 잘 되는 것은 아무 의미가 없습니다. 그렇기 때문에 지식의 전파와 재창조의 가치를 중요하게 생각하고 있습니다.
 
-------
+
 
 ## 취미
 
@@ -32,7 +32,7 @@
 
 소설 쓰는 것을 좋아합니다만, 막상 쓰려고 하면 생각하는 것에 시간을 너무 뺏기기 때문에 자주 소설을 쓰는 편은 아닙니다.
 
----
+
 
 ## 특허 및 표준 목록
 
@@ -45,7 +45,7 @@
 4. [2018. 04] 국제 표준 (ITU-T Geneve) Accepted with Modification Study Group 13, Working Party 2, Question 17 CCDC (Cloud Computing Distributed Cloud) Contribution-0110: [Use case of content delivery service on distributed cloud]
 5. [2018. 12] 특허 출원 (P-181214R) 컨테이너 가상화 환경에서의 성능 간섭 최소화를 통한 최적의 처리 시간 보장 방법
 
-------
+
 
 ## 수행한 프로젝트 목록 (학부 ~ 대학원)
 [제 블로그](https://blog.naver.com/alice_k106)에서 프로젝트 수행 기간에 작성된 포스트를 보시면 어떤 개발을 어떻게 진행했는지 대략적으로 확인하실 수 있습니다.
