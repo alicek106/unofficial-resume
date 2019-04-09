@@ -6,7 +6,7 @@
 
 저의 이름은 용찬호이고, 94년생 만 24세입니다. 클라우드를 좋아합니다. 항상 더 나은 클라우드 아키텍처와 자동화를 꿈꿉니다.
 
-<div contenteditable="plaintext-only"><p align="center"><img width="400" src="https://github.com/alicek106/unofficial-resume/blob/master/jpg/6.jpeg?raw=true"></p></div>
+<div contenteditable="plaintext-only"><p align="center"><img width="400" src="https://github.com/alicek106/unofficial-resume/blob/master/jpg/7.jpg?raw=true"></p></div>
 
 ----
 
