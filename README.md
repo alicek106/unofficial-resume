@@ -1,6 +1,6 @@
 # Unofficial Resume
 
-이력서에서 다 하지 못한 이야기를 하는 Onofficial Resume입니다.
+이력서에서 다 하지 못한 이야기를 하는 Un Official Resume입니다.
 
 # 자기 소개
 
