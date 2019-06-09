@@ -145,3 +145,13 @@
 ------
 
 #### 
+
+## 논문 출판 내역
+1. Nguyen, D. T., et al. "An index scheme for similarity search on cloud computing using mapreduce over docker container." Proceedings of the 10th International Conference on Ubiquitous Information Management and Communication. ACM, 2016.
+2. 박나연, et al. "유동적 노드 그룹핑을 위한 MQTT 노드 관리 플랫폼 설계." 한국정보과학회 학술발표논문집 (2016): 2065-2067.
+3. 용찬호, 이승형, and 허의남. "Docker 컨테이너 기반의 영상처리 서비스 패키지 모델." 한국정보과학회 학술발표논문집 (2016): 1650-1652.
+4. 용찬호, 손동영, and 허의남. "블록 입출력 히스토리 학습을 통한 컨테이너 레이어 파일 시스템 분류 기법." 한국통신학회 학술대회논문집 (2017): 914-915.
+5. 용찬호, 박준학, and 허의남. "컨테이너 기반의 HPC 클라우드 환경 구축을 위한 컨테이너 성능 및 특징 연구." 한국정보과학회 학술발표논문집 (2017): 94-96.
+6. 용찬호, et al. "서비스 맞춤형 컨테이너를 위한 블록 입출력 히스토리 학습 기반 컨테이너 레이어 파일 시스템 선정 기법." 정보처리학회논문지. 컴퓨터 및 통신시스템 6.10 (2017): 415-420.
+7. 용찬호, 우성윤, and 허의남. "애플리케이션 프로세서 기기를 위한 컨테이너 환경에서 실시간성 지원 방법 및 성능 분석 연구." 한국정보과학회 학술발표논문집 (2018): 1303-1305.
+8. Yong, Chanho, Ga-Won Lee, and Eui-Nam Huh. "Proposal of Container-Based HPC Structures and Performance Analysis." Journal of Information Processing Systems 14.6 (2018).
